@@ -1,6 +1,6 @@
 ![Tailstore Template](https://spacema-dev.com/tailstore/fullimage.png)
 
-# Tailstore v4 – Free Tailwind CSS v4 eCommerce Template
+# Tailstore v4 – Free Tailwind CSS 4 eCommerce Template
 Tailstore v4 is a modern, responsive eCommerce template built with Tailwind CSS v4 — a major upgrade from the popular v3 version. Tailstore helps developers and small businesses launch elegant online stores faster than ever. This is one of the first free templates publicly available using Tailwind CSS v4, ideal for anyone looking to build with the latest tools and utility classes.
 
 🔗 Check out the demo of Tailstore template [here](https://spacema-dev.com/tailstore/).
