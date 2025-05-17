@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "npx tailwindcss -i assets/css/tailwind.css -o assets/css/styles.css --watch",
+    "build": "npx tailwindcss -i assets/css/tailwind.css -o assets/css/styles.css --minify"
+  },
+  "dependencies": {
+    "swiper": "^11.2.6"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.6",
+    "tailwindcss": "^4.1.6"
+  }
+}

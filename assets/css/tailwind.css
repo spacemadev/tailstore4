@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme{
+  --color-primary: #ff0042;
+  --color-white: #ffffff;
+  --color-black: #010717;
+  --color-gray-lighter: #FAF7F3;
+  --color-gray-light: #323232;
+  --color-gray-dark: #010717;
+  --color-gray-txt: #4c4d56;
+  --color-gray-line: #E5E5E5;
+
+  --font-display: "Manrope", sans-serif;
+
+  --breakpoint-sm: 640px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 1024px;
+  --breakpoint-xl: 1280px;
+
+  --container-padding: 1rem;
+}
